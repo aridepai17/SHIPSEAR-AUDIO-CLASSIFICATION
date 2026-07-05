@@ -1394,9 +1394,9 @@ model.summary()
 
 **Output Analysis:**
 - **Total Parameters: 1,339,866**
-  - DWS Block: ~9,600 params
-  - Transformer Blocks: ~1,300,000 params (majority)
-  - Classification Head: ~30,000 params
+  - DWS Block: 398 params
+  - Transformer Blocks: ~1,100,000 params (majority)
+  - Classification Head: ~12,000 params
 
 **Parameter Distribution:**
 - Most parameters are in transformer MLPs (Dense layers)
